@@ -1,9 +1,0 @@
-// app/fotocamera/page.tsx
-export default function FotocameraPage() {
-  return (
-    <div className="p-8">
-      <h1 className="text-3xl font-bold text-gray-800">Fotocamera</h1>
-      <p className="mt-4 text-gray-600">Questa funzionalità è in fase di sviluppo.</p>
-    </div>
-  );
-}
